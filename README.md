@@ -10,7 +10,7 @@ How wonderful it would be to open the door without getting up?
 
 We began the project with laziness like this. Our goal is to implement using IoT.
 
-<video width="320" height="240" controls>
+<video width="640" height="480" controls>
   <source src="sample1.mp4" type="video/mp4">
 </video>
 
