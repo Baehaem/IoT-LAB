@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/history"
+            android:title=" History " />
+        <item
+            android:id="@+id/door"
+            android:title=" Door " />
+        <item
+            android:id="@+id/light"
+            android:title=" Light " />
+        <item
+            android:id="@+id/airconditioner"
+            android:title=" Air conditioner " />
+    </group>
+
+    <item android:title=" other things">
+        <menu>
+            <item
+                android:id="@+id/setting"
+                android:title=" Setting " />
+
+        </menu>
+    </item>
+
+</menu>
